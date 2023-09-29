@@ -1,0 +1,13 @@
+public class {
+public static void main(){
+int num =2;
+int num2 =3;
+
+sum = num = num2;
+System.out.print("total sum is " + sum)
+
+
+
+
+}
+}
