@@ -8,13 +8,6 @@ public class IntegratedList {
         int[][] mergedArray= {myArray1, myArray2};
 
         System.out.println(Arrays.toString(mergedArray));
-    }
-    public static int[]mergedArray=(int[] arr1, int[] arr2)
-    {
-        int length1 =arr1.length;
-        int length2 = arr2.length;
-        int []result = new int[length1+length2;]
-
 
 }
-        }
+}
